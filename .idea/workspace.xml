@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/BasketballApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/BasketballPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/classesandobjects/BasketballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/BasketballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/classesandobjects/DodgeChallenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/DodgeChallenger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

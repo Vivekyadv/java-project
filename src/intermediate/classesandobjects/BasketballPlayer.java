@@ -4,14 +4,14 @@ import java.util.Random;
 
 public class BasketballPlayer {
 
-    String name;
-    String nickname;
-    int yearOfBorn;
-    String team;
+    private String name;
+    private String nickname;
+    private int yearOfBorn;
+    private String team;
 
-    double freeThrowPercentage;
-    double pointsPerGame;
-    int gamesPlayed;
+    private double freeThrowPercentage;
+    private double pointsPerGame;
+    private int gamesPlayed;
 
     public BasketballPlayer(String name, String nickname, int yearOfBorn, String team, double freeThrowPercentage, double pointsPerGame, int gamesPlayed) {
         this.name = name;
