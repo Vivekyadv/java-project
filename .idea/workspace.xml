@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/CarsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/DodgeChallenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/BasketballApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/classesandobjects/BasketballPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +39,26 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/vivek/Projects/java-project&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarsApp">
+  <component name="RunManager" selected="Application.BasketballApp">
     <configuration name="ArraysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beginner.ArraysApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="beginner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasketballApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate.classesandobjects.BasketballApp" />
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intermediate.classesandobjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KBCApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner.KBCApp" />
-      <module name="java-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasketballApp" />
         <item itemvalue="Application.CarsApp" />
         <item itemvalue="Application.IMDBApp" />
         <item itemvalue="Application.ArraysApp" />
         <item itemvalue="Application.FunctionApp" />
-        <item itemvalue="Application.KBCApp" />
       </list>
     </recent_temporary>
   </component>
