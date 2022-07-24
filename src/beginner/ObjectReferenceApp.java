@@ -1,3 +1,5 @@
+package beginner;
+
 public class ObjectReferenceApp {
 
     public static void main(String[] args) {
@@ -18,7 +20,7 @@ public class ObjectReferenceApp {
 
         System.out.println("Number of seats: " + numberOfSeats);
         System.out.println("Horsepower: " + horsePower);
-        System.out.println("Price: " + price.floatValue());
+        System.out.println("Price: $" + price.floatValue());
         System.out.println("Registration number: " + registrationNumber);
         System.out.println("Combined fuel consumption: " + fuelConsumptionCombined);
         System.out.println("Precise fuel consumption: " + fuelConsumptionPrecise.intValue());

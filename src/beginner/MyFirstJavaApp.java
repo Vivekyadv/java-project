@@ -1,3 +1,5 @@
+package beginner;
+
 public class MyFirstJavaApp {
 
     public static void main(String[] args) {
@@ -27,7 +29,7 @@ public class MyFirstJavaApp {
 
 
         System.out.println("2018 Dodge Challenger SRT 392");
-        System.out.println("Price: €" + price);
+        System.out.println("Price: $" + price);
         System.out.println("Mileage: " + mileage + "km");
         System.out.println("The car is damaged: " + isDamaged);
         System.out.println("Registration number: " + registrationNumber);
