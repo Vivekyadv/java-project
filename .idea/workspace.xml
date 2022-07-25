@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/InnerClassesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/staticnested/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/innerclasses/staticnested/PizzaBuilderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/arrayfunctions/ArrayFunctionsApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +52,20 @@
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PizzaBuilderApp">
+  <component name="RunManager" selected="Application.ArrayFunctionsApp">
+    <configuration name="ArrayFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.arrayfunctions.ArrayFunctionsApp" />
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.arrayfunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DefaultValuesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediate.defaultvalues.DefaultValuesApp" />
       <module name="java-project" />
@@ -108,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate.stringfunctions.StringFunctionsApp" />
-      <module name="java-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intermediate.stringfunctions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayFunctionsApp" />
         <item itemvalue="Application.PizzaBuilderApp" />
         <item itemvalue="Application.InnerClassesApp" />
         <item itemvalue="Application.PizzaApp" />
         <item itemvalue="Application.DefaultValuesApp" />
-        <item itemvalue="Application.StringFunctionsApp" />
       </list>
     </recent_temporary>
   </component>
