@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intermediate/finalkeyword/Brazil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/finalkeyword/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/statickeyword/CountriesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intermediate/statickeyword/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/stringfunctions/StringFunctionsApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +49,7 @@
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountriesApp">
+  <component name="RunManager" selected="Application.StringFunctionsApp">
     <configuration name="AthleteApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intermediate.polymorphism.athlete.AthleteApp" />
       <module name="java-project" />
@@ -99,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intermediate.abstraction.athlete.AthleteApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intermediate.abstraction.athlete.AthleteApp" />
+    <configuration name="StringFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate.stringfunctions.StringFunctionsApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intermediate.abstraction.athlete.*" />
+          <option name="PATTERN" value="intermediate.stringfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringFunctionsApp" />
         <item itemvalue="Application.CountriesApp" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.AthleteApp" />
         <item itemvalue="Application.CarsApp" />
-        <item itemvalue="Application.intermediate.abstraction.athlete.AthleteApp" />
       </list>
     </recent_temporary>
   </component>
