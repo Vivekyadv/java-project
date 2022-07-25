@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/timetypes/PizzaWebshopApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/io/CharacterApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PizzaWebshopApp">
+  <component name="RunManager" selected="Application.CharacterApp">
     <configuration name="ArrayFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.arrayfunctions.ArrayFunctionsApp" />
       <module name="java-project" />
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.mathfunctions.MathFunctionsApp" />
+    <configuration name="CharacterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.io.CharacterApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.mathfunctions.*" />
+          <option name="PATTERN" value="advanced.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaBuilderApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.innerclasses.staticnested.PizzaBuilderApp" />
+    <configuration name="MathFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.mathfunctions.MathFunctionsApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.innerclasses.staticnested.*" />
+          <option name="PATTERN" value="advanced.mathfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharacterApp" />
         <item itemvalue="Application.PizzaWebshopApp" />
         <item itemvalue="Application.RockPaperScissorsApp" />
         <item itemvalue="Application.MathFunctionsApp" />
         <item itemvalue="Application.ArrayFunctionsApp" />
-        <item itemvalue="Application.PizzaBuilderApp" />
       </list>
     </recent_temporary>
   </component>
