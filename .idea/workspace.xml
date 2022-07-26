@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectclone/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectclone/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectclone/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectequals/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectequals/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectequals/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectgetclass/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectgetclass/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectgetclass/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecthashcode/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecthashcode/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecthashcode/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecttostring/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecttostring/PizzaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecttostring/PizzaSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/string/StringPerformanceApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/ToDoListApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/collections/arraylist/WebShopApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +56,7 @@
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.advanced.objectsuperclass.objecttostring.PizzaApp">
+  <component name="RunManager" selected="Application.WebShopApp">
     <configuration name="PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objectequals.PizzaApp" />
       <module name="java-project" />
@@ -84,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="advanced.objectsuperclass.objectclone.PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objectclone.PizzaApp" />
+    <configuration name="WebShopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.collections.arraylist.WebShopApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.objectsuperclass.objectclone.*" />
+          <option name="PATTERN" value="advanced.collections.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebShopApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objecttostring.PizzaApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objecthashcode.PizzaApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objectgetclass.PizzaApp" />
         <item itemvalue="Application.PizzaApp" />
-        <item itemvalue="Application.advanced.objectsuperclass.objectclone.PizzaApp" />
       </list>
     </recent_temporary>
   </component>
