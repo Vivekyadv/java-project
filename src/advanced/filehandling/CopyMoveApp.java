@@ -10,8 +10,8 @@ public class CopyMoveApp {
 
     public static void main(String[] args) {
 
-        Path originalPath = Paths.get("src/com/advanced/filehandling/JuliusCesar.txt");
-        Path destinationPath = Paths.get("src/com/advanced/exceptions/JuliusCesar.txt");
+        Path originalPath = Paths.get("src/advanced/filehandling/JuliusCesar.txt");
+        Path destinationPath = Paths.get("src/advanced/exceptions/JuliusCesar.txt");
 
         try {
             if (Files.exists(originalPath)) {

@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class ScannerApp {
 
     public static void main(String[] args) {
-        String HAMLET_PART_FILE_PATH = "src\\com\\advanced\\filehandling\\Hamlet.txt";
+        String HAMLET_PART_FILE_PATH = "src\\advanced\\filehandling\\Hamlet.txt";
 
         try (Scanner scanner = new Scanner(new File(HAMLET_PART_FILE_PATH))){
             scanner.useDelimiter(",");

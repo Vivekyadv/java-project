@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class FileWriterApp {
     public static void main(String[] args) {
-        String JULIUS_CESAR_FILE_PATH = "src/com/advanced/filehandling/JuliusCesar.txt";
+        String JULIUS_CESAR_FILE_PATH = "src/advanced/filehandling/JuliusCesar.txt";
 
         try (FileWriter bookWriter = new FileWriter(JULIUS_CESAR_FILE_PATH) ){
             bookWriter.write("Even you, Brutus?");

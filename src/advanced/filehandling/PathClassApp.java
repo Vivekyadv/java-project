@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 public class PathClassApp {
 
     public static void main(String[] args) {
-        Path path = Paths.get("src/com/advanced/filehandling/JuliusCesar.txt").toAbsolutePath();
+        Path path = Paths.get("src/advanced/filehandling/JuliusCesar.txt").toAbsolutePath();
 
         System.out.println("toString: " + path.toString());
         System.out.println("getFileName: " + path.getFileName());

@@ -6,7 +6,7 @@ import java.io.IOException;
 public class FileReaderApp {
 
     public static void main(String[] args) {
-        String HAMLET_PART_FILE_PATH = "src\\com\\advanced\\filehandling\\Hamlet.txt";
+        String HAMLET_PART_FILE_PATH = "src\\advanced\\filehandling\\Hamlet.txt";
 
         char[] firstHundredCharacters = new char[100];
         try (FileReader hamletReader = new FileReader(HAMLET_PART_FILE_PATH)) {

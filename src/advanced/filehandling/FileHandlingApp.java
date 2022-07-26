@@ -6,7 +6,7 @@ import java.io.IOException;
 public class FileHandlingApp {
 
     public static void main(String[] args) {
-        String FILE_HANDLING_DIRECTORY = "src\\com\\advanced\\filehandling\\";
+        String FILE_HANDLING_DIRECTORY = "src\\advanced\\filehandling\\";
         File famousQuotesFile = new File(FILE_HANDLING_DIRECTORY + "famousQuotes.txt");
 
         try {

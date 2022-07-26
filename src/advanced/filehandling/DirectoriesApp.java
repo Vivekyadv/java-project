@@ -16,7 +16,7 @@ public class DirectoriesApp {
 
         businessBooksDirectory.deleteOnExit();
 
-        File fileHandlingDirectory = new File("src\\com\\advanced\\filehandling\\");
+        File fileHandlingDirectory = new File("src\\advanced\\filehandling\\");
         System.out.println("Files in the filehandling directory:");
         System.out.println(Arrays.toString(fileHandlingDirectory.list()));
         System.out.println(Arrays.toString(fileHandlingDirectory.listFiles()));

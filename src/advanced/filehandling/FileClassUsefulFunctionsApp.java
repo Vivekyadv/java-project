@@ -7,7 +7,7 @@ import java.util.Calendar;
 public class FileClassUsefulFunctionsApp {
 
     public static void main(String[] args) {
-        File fileHandlingApp = new File("src\\com\\advanced\\filehandling\\FileHandlingApp.java");
+        File fileHandlingApp = new File("src\\advanced\\filehandling\\FileHandlingApp.java");
 
         System.out.println("File name: " + fileHandlingApp.getName());
         System.out.println("Parent: " + fileHandlingApp.getParent());

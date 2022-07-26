@@ -9,7 +9,7 @@ public class BufferedReaderApp {
 
     public static void main(String[] args) {
 
-        String HAMLET_PART_FILE_PATH = "src\\com\\advanced\\filehandling\\Hamlet.txt";
+        String HAMLET_PART_FILE_PATH = "src\\advanced\\filehandling\\Hamlet.txt";
 
         try (FileReader hamletReader = new FileReader(HAMLET_PART_FILE_PATH)) {
             BufferedReader hamletBufferReader = new BufferedReader(hamletReader, 16384);

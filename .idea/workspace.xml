@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/BufferedReaderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/BufferedWriterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/CopyMoveApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/DirectoriesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileClassUsefulFunctionsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileHandlingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileReaderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileWriterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/PathClassApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/PrintWriterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/ScannerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advanced/filehandling/FileHandlingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileHandlingApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +55,33 @@
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DivideTwoNumbersExceptionApp">
+  <component name="RunManager" selected="Application.FileClassUsefulFunctionsApp">
+    <configuration name="BufferedWriterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.filehandling.BufferedWriterApp" />
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.filehandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyMoveApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.filehandling.CopyMoveApp" />
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.filehandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DivideTwoNumbersExceptionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.exceptions.DivideTwoNumbersExceptionApp" />
       <module name="java-project" />
@@ -80,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileCreationExceptionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.exceptions.FileCreationExceptionApp" />
+    <configuration name="FileClassUsefulFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.filehandling.FileClassUsefulFunctionsApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.exceptions.*" />
+          <option name="PATTERN" value="advanced.filehandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,38 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.generics.GenericsApp" />
+    <configuration name="FileHandlingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.filehandling.FileHandlingApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.collections.linkedlist.LinkedListApp" />
-      <module name="java-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanced.collections.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebShopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.collections.arraylist.WebShopApp" />
-      <module name="java-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanced.collections.arraylist.*" />
+          <option name="PATTERN" value="advanced.filehandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileClassUsefulFunctionsApp" />
+        <item itemvalue="Application.CopyMoveApp" />
+        <item itemvalue="Application.BufferedWriterApp" />
+        <item itemvalue="Application.FileHandlingApp" />
         <item itemvalue="Application.DivideTwoNumbersExceptionApp" />
-        <item itemvalue="Application.FileCreationExceptionApp" />
-        <item itemvalue="Application.GenericsApp" />
-        <item itemvalue="Application.LinkedListApp" />
-        <item itemvalue="Application.WebShopApp" />
       </list>
     </recent_temporary>
   </component>

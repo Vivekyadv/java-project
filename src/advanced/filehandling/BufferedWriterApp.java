@@ -8,7 +8,7 @@ public class BufferedWriterApp {
 
     public static  void main(String[] args) {
 
-        try (BufferedWriter bufferedBookWriter = new BufferedWriter(new FileWriter("src/com/advanced/filehandling/JuliusCesar.txt", true))) {
+        try (BufferedWriter bufferedBookWriter = new BufferedWriter(new FileWriter("src/advanced/filehandling/JuliusCesar.txt", true))) {
             bufferedBookWriter.write("Even you, Brutus?");
             bufferedBookWriter.newLine();
         } catch (IOException exception) {
