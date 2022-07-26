@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/DivideTwoNumbersExceptionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/FileCreationExceptionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/JuliusCesar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/exceptions/ZeroDivisorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/BufferedReaderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/BufferedWriterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/CopyMoveApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/DirectoriesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileClassUsefulFunctionsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileHandlingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileReaderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/FileWriterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/PathClassApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/PrintWriterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/filehandling/ScannerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vivek/Projects/java-project/src/intermediate/abstraction/athlete&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vivek/Projects/java-project/src/intermediate/abstraction/athlete"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="advanced.objectclone" />
@@ -154,5 +163,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
