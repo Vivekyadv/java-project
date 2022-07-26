@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="" />
+    <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/advanced/generics/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/generics/GenericsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/generics/OrderedPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/generics/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/generics/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/generics/weirdpart/GenericFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/generics/weirdpart/GenericsWeirdPartApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +61,20 @@
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListApp">
+  <component name="RunManager" selected="Application.GenericsApp">
+    <configuration name="GenericsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.generics.GenericsApp" />
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanced.collections.linkedlist.LinkedListApp" />
       <module name="java-project" />
@@ -72,19 +94,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="advanced.collections.arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="advanced.objectsuperclass.objectgetclass.PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objectgetclass.PizzaApp" />
-      <module name="java-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanced.objectsuperclass.objectgetclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsApp" />
         <item itemvalue="Application.LinkedListApp" />
         <item itemvalue="Application.WebShopApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objecttostring.PizzaApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objecthashcode.PizzaApp" />
-        <item itemvalue="Application.advanced.objectsuperclass.objectgetclass.PizzaApp" />
       </list>
     </recent_temporary>
   </component>
