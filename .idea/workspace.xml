@@ -52,13 +52,13 @@
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WebShopApp">
-    <configuration name="PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objectequals.PizzaApp" />
+  <component name="RunManager" selected="Application.LinkedListApp">
+    <configuration name="LinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.collections.linkedlist.LinkedListApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.objectsuperclass.objectequals.*" />
+          <option name="PATTERN" value="advanced.collections.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListApp" />
         <item itemvalue="Application.WebShopApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objecttostring.PizzaApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objecthashcode.PizzaApp" />
         <item itemvalue="Application.advanced.objectsuperclass.objectgetclass.PizzaApp" />
-        <item itemvalue="Application.PizzaApp" />
       </list>
     </recent_temporary>
   </component>
