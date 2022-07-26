@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bc6693-8505-401a-bda0-ec680c4ddb9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/io/CharacterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectclone/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectclone/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectclone/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectequals/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectequals/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectequals/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectgetclass/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectgetclass/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objectgetclass/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecthashcode/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecthashcode/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecthashcode/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecttostring/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecttostring/PizzaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/objectsuperclass/objecttostring/PizzaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/string/StringPerformanceApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="advanced.objectclone" />
       <recent name="intermediate.defaultvalues" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -49,16 +66,17 @@
       <recent name="C:\Users\vivek\Projects\java-project\src\intermediate\encapsulation" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="advanced.objectsuperclass.objecttostring" />
       <recent name="intermediate.statickeyword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharacterApp">
-    <configuration name="ArrayFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.arrayfunctions.ArrayFunctionsApp" />
+  <component name="RunManager" selected="Application.advanced.objectsuperclass.objecttostring.PizzaApp">
+    <configuration name="PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objectequals.PizzaApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.arrayfunctions.*" />
+          <option name="PATTERN" value="advanced.objectsuperclass.objectequals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.io.CharacterApp" />
+    <configuration name="advanced.objectsuperclass.objectclone.PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objectclone.PizzaApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.io.*" />
+          <option name="PATTERN" value="advanced.objectsuperclass.objectclone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathFunctionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.mathfunctions.MathFunctionsApp" />
+    <configuration name="advanced.objectsuperclass.objectgetclass.PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objectgetclass.PizzaApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.mathfunctions.*" />
+          <option name="PATTERN" value="advanced.objectsuperclass.objectgetclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaWebshopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.timetypes.PizzaWebshopApp" />
+    <configuration name="advanced.objectsuperclass.objecthashcode.PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objecthashcode.PizzaApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.timetypes.*" />
+          <option name="PATTERN" value="advanced.objectsuperclass.objecthashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockPaperScissorsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.debugging.RockPaperScissorsApp" />
+    <configuration name="advanced.objectsuperclass.objecttostring.PizzaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.objectsuperclass.objecttostring.PizzaApp" />
       <module name="java-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.debugging.*" />
+          <option name="PATTERN" value="advanced.objectsuperclass.objecttostring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharacterApp" />
-        <item itemvalue="Application.PizzaWebshopApp" />
-        <item itemvalue="Application.RockPaperScissorsApp" />
-        <item itemvalue="Application.MathFunctionsApp" />
-        <item itemvalue="Application.ArrayFunctionsApp" />
+        <item itemvalue="Application.advanced.objectsuperclass.objecttostring.PizzaApp" />
+        <item itemvalue="Application.advanced.objectsuperclass.objecthashcode.PizzaApp" />
+        <item itemvalue="Application.advanced.objectsuperclass.objectgetclass.PizzaApp" />
+        <item itemvalue="Application.PizzaApp" />
+        <item itemvalue="Application.advanced.objectsuperclass.objectclone.PizzaApp" />
       </list>
     </recent_temporary>
   </component>
